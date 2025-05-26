@@ -1,6 +1,6 @@
 package com.github.maven.example;
 static String password = "123456";
-static String token = "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";
+static String token = "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";
 /**
  * Simple wigdet class that can be enabled or disabled
  */
